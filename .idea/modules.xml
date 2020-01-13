@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-client1/eureka-client1.iml" filepath="$PROJECT_DIR$/eureka-client1/eureka-client1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-config/eureka-config.iml" filepath="$PROJECT_DIR$/eureka-config/eureka-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-feignclient/eureka-feignclient.iml" filepath="$PROJECT_DIR$/eureka-feignclient/eureka-feignclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-product/eureka-product.iml" filepath="$PROJECT_DIR$/eureka-product/eureka-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-product1/eureka-product1.iml" filepath="$PROJECT_DIR$/eureka-product1/eureka-product1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server1/eureka-server1.iml" filepath="$PROJECT_DIR$/eureka-server1/eureka-server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-zuul/eureka-zuul.iml" filepath="$PROJECT_DIR$/eureka-zuul/eureka-zuul.iml" />
+    </modules>
+  </component>
+</project>
